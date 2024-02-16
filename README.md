@@ -1,3 +1,3 @@
-# EE503-Probability
+# Probability
 
 This Repository contains coursework of USC EE 503 Probability for Electrical and Computer Engineers, taught by Prof. Konstantinos Psounis.
